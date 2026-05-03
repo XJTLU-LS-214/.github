@@ -25,16 +25,6 @@
   </picture>
 </p>
 
-## Projects
-
-<p align="center">
-  <a href="https://github.com/XJTLU-LS-214/Shared-Resource">
-    <img src="https://img.shields.io/badge/Shared--Resource-%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%AB-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Shared-Resource"/>
-  </a>
-</p>
-
-<!-- TODO: 未来新增 repo 时，复制上方 badge 模板，修改名称和链接即可 -->
-
 ## Tech & Focus
 
 <!-- TODO: 根据工作室方向替换下方图标 -->
