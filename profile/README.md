@@ -17,13 +17,13 @@
 
 ## About
 
-<!-- TODO: 2-3 句话介绍工作室
-示例：
-> LS-214 是西交利物浦大学的一个学生工作室，以 LS 楼 214 室为据点。
-> 我们专注于 [方向]，致力于 [目标]。
--->
-
-**Coming soon...**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/slogan-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/slogan-light.svg" />
+    <img width="600" src="./assets/slogan-dark.svg" alt="真诚 · 友善 · 团结 · 专业 · 无内鬼 — 共建你我引以为荣之社区 🐰🐰🐰" />
+  </picture>
+</p>
 
 ## Projects
 
