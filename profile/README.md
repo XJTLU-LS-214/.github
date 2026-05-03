@@ -27,8 +27,23 @@
 
 ## Tech & Focus
 
-<!-- TODO: 根据工作室方向替换下方图标 -->
-<p align="center"><picture><img width="44" height="44" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" /></picture>&#8202;<picture><img width="44" height="44" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" /></picture>&#8202;<picture><img width="44" height="44" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" /></picture>&#8202;<picture><img width="44" height="44" src="https://skillicons.dev/icons?i=git" alt="Git" /></picture>&#8202;<picture><img width="44" height="44" src="https://skillicons.dev/icons?i=linux" alt="Linux" /></picture>&#8202;<picture><img width="44" height="44" src="https://skillicons.dev/icons?i=ros" alt="ROS" /></picture></p>
+<p align="center">
+  <picture><img width="44" height="44" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" /></picture>
+  <br />
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=c" alt="C" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=ros" alt="ROS" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=cmake" alt="CMake" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=git" alt="Git" /></picture>&#8202;
+  <picture><img width="44" height="44" src="https://skillicons.dev/icons?i=linux" alt="Linux" /></picture>
+</p>
 
 ## Members
 
