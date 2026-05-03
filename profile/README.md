@@ -25,8 +25,6 @@
   </picture>
 </p>
 
-<br>
-
 ## Projects
 
 <p align="center">
