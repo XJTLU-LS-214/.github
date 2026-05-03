@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=38&lines=Welcome+to+XJTLU+LS-214+Studio!;<!-- TODO: 补充 2-3 条轮播文本，用分号 %3B 分隔 -->" alt="Typing SVG" />
+    <!-- TODO: 补充更多轮播文本，在 lines= 参数中用分号分隔 -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=38&lines=Welcome+to+XJTLU+LS-214+Studio!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,8 +54,7 @@
 
 ## Contact
 
-<!-- TODO: 补充工作室联系方式 -->
-<p align="center"><a href="<!-- TODO: 邮箱 -->"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>&#8194;<a href="<!-- TODO: 微信群二维码图片路径（可选） -->"><img src="https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white"/></a></p>
+<p align="center"><a href="mailto:1114087661.kevin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>&#8194;<a href="https://github.com/kevinlasnh/kevinlasnh/blob/main/assets/wechat-qr.jpg"><img src="https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/capsule-wave-footer-dark-fast.svg" />
